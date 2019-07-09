@@ -1,2 +1,2 @@
 # dog-breed-classification
-This project is part of the projects in Udacity Deep Learning Nanoprogram. It involves the application of human detector, train your own dog detector and apply pre-trained dog detector (choose the desired architecture, in this case, Resnet50) to recognize dog/human and dog breed for the given picture. The data are from Udacity.
+This project is part of the projects in Udacity Deep Learning Nanoprogram. It involves the application of human detector, train your own dog detector (base model) and transfer learning using the pre-trained dog detector (choose the desired architecture, in this case, Resnet50) to recognize dog/human and dog breed for the given picture. This increases the accuracy from 11% to 81%. The data are from Udacity.
